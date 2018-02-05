@@ -12,4 +12,8 @@ public class HelloController {
     public String hello(){
         return "hello";
     }
+
+    public void test(){
+        System.out.println(000);
+    }
 }
