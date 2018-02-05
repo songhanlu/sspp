@@ -14,7 +14,6 @@ public class HelloController {
     }
 
     public void test(){
-        System.out.println(000);
-        System.out.println(8956);
+        System.out.println("ssshh");
     }
 }
